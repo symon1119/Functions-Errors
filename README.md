@@ -1,5 +1,5 @@
 # Functions&Errors
-## Descriction
+## Description
  Create a smart contract that includes the require(), assert(), and revert() statements.
 
 ## Getting Started
