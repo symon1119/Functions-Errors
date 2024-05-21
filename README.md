@@ -9,7 +9,7 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 
 Once you are on the Remix website, create a new file by clicking on the file icon in the left-hand sidebar. Save the file with a .sol extension (e.g., Converter.sol). Copy and paste the following code into the file:
 
-'''
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -42,7 +42,7 @@ contract CoinConverter {
   }
 }
 
-'''
+```
 
 Once you paste the code, go to SOLIDITY COMPILER to appear in DEPLOY and RUN TRANSACTION to deploy. NOW YOU CAN ENTER THE AMOUNT YOU WANT!
 
